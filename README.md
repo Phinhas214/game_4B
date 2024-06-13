@@ -1,5 +1,3 @@
-**Platform Improvement**
+**Final Game Project for CMPM 120**
 
-Starter code for creating a platformer game using Arcade Phsyics in Phaser.
-
-Visual assets courtesy of [Kenny Assets](https://kenney.nl/assets), with gratitude.
+Platform game in javascript using the Phaser library. 
